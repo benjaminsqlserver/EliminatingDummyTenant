@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AzureADTenantPart2
+build_property.RootNamespace = AzureADTenantPart2
+build_property.ProjectDir = C:\AzureADTenantPart2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\AzureADTenantPart2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/AzureADTenantPart2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/AddAllowedTenant.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQWxsb3dlZFRlbmFudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/AddOffice.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT2ZmaWNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/AddSolutionUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU29sdXRpb25Vc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/AllowedTenants.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsb3dlZFRlbmFudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/EditAllowedTenant.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFsbG93ZWRUZW5hbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/EditOffice.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE9mZmljZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/EditSolutionUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFNvbHV0aW9uVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/Offices.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZmaWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/SolutionUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29sdXRpb25Vc2Vycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/Unauthorized.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5hdXRob3JpemVkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AzureADTenantPart2/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

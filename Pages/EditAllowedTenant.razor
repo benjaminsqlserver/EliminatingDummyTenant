@@ -1,0 +1,24 @@
+@page "/edit-allowed-tenant"
+@attribute [Authorize]
+
+<PageTitle>Edit AllowedTenant</PageTitle>
+
+    <RadzenColumn SizeMD=12>
+        <RadzenAlert Shade="Shade.Lighter" Variant="Variant.Flat" Size="AlertSize.Small" AlertStyle="AlertStyle.Danger" Visible="@errorVisible">Cannot save AllowedTenant</RadzenAlert>
+        <RadzenTemplateForm TItem="AzureADTenantPart2.Models.ConData.AllowedTenant" Data="@allowedTenant" Visible="@(allowedTenant != null)" Submit="@FormSubmit">
+            <RadzenRow style="margin-bottom: 1rem">
+                <RadzenColumn SizeMD="3">
+                    <RadzenLabel Text="Domain Name" Component="DomainName" style="width: 100%" />
+                </RadzenColumn>
+                <RadzenColumn SizeMD="9">
+                    <RadzenTextBox style="display: block; width: 100%" @bind-Value="@allowedTenant.DomainName" Name="DomainName" />
+                    <RadzenRequiredValidator Component="DomainName" Text="DomainName is required" />
+                </RadzenColumn>
+            </RadzenRow>
+          <RadzenStack  Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
+                    <RadzenButton ButtonStyle="ButtonStyle.Primary" ButtonType="ButtonType.Submit" Icon="save" Text="Save" Variant="Variant.Flat" />
+                    <RadzenButton ButtonStyle="ButtonStyle.Light" Text="Cancel" Variant="Variant.Flat" Click="@CancelButtonClick"  />
+          </RadzenStack>
+        </RadzenTemplateForm>
+    </RadzenColumn>
+

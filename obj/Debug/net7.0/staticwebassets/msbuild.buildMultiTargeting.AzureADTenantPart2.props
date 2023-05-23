@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureADTenantPart2.props" />
+</Project>

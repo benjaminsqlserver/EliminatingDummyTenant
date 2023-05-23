@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\images\\logo-login.png",
+      "PackagePath": "staticwebassets\\images\\logo-login.png"
+    },
+    {
+      "Id": "C:\\AzureADTenantPart2\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AzureADTenantPart2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AzureADTenantPart2.props",
+      "PackagePath": "build\\AzureADTenantPart2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AzureADTenantPart2.props",
+      "PackagePath": "buildMultiTargeting\\AzureADTenantPart2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AzureADTenantPart2.props",
+      "PackagePath": "buildTransitive\\AzureADTenantPart2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
